@@ -1,4 +1,4 @@
-Country	Country V2 Code	Culture zone
+country	country_v2_code	culture_zone
 Albania	8	African-Islamic
 Andorra	20	Catholic Europe
 Azerbaijan	31	African-Islamic
