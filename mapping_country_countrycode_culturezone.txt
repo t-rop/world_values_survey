@@ -1,0 +1,84 @@
+Country	Country V2 Code	Culture zone
+Albania	8	African-Islamic
+Andorra	20	Catholic Europe
+Azerbaijan	31	African-Islamic
+Argentina	32	Latin America
+Australia	36	English-Speaking
+Austria	40	Catholic Europe
+Bangladesh	50	African-Islamic
+Armenia	51	Orthodox Europe
+Bolivia	68	Latin America
+Bosnia and Herzegovina	70	Orthodox Europe
+Brazil	76	Latin America
+Bulgaria	100	Orthodox Europe
+Myanmar	104	West & South Asia
+Belarus	112	Orthodox Europe
+Chile	152	Latin America
+China	156	Confucian
+Taiwan ROC	158	Confucian
+Colombia	170	Latin America
+Croatia	191	Catholic Europe
+Cyprus	196	Orthodox Europe
+Czech Republic	203	Catholic Europe
+Denmark	208	Protestant Europe
+Ecuador	218	Latin America
+Ethiopia	231	African-Islamic
+Estonia	233	Protestant Europe
+Finland	246	Protestant Europe
+France	250	Catholic Europe
+Georgia	268	Orthodox Europe
+Germany	276	Protestant Europe
+Germany	276	Protestant Europe
+Greece	300	Orthodox Europe
+Guatemala	320	Latin America
+Hong Kong SAR	344	Confucian
+Hungary	348	Catholic Europe
+Iceland	352	Protestant Europe
+India	356	West & South Asia
+Indonesia	360	African-Islamic
+Iran	364	African-Islamic
+Iraq	368	African-Islamic
+Italy	380	Catholic Europe
+Japan	392	Confucian
+Kazakhstan	398	African-Islamic
+Jordan	400	African-Islamic
+South Korea	410	Confucian
+Kyrgyzstan	417	African-Islamic
+Lebanon	422	African-Islamic
+Lithuania	440	Catholic Europe
+Macau SAR	446	Confucian
+Malaysia	458	West & South Asia
+Mexico	484	Latin America
+Montenegro	499	Orthodox Europe
+Netherlands	528	Protestant Europe
+New Zealand 	554	English-Speaking
+Nicaragua	558	Latin America
+Nigeria	566	African-Islamic
+Norway	578	Protestant Europe
+Pakistan	586	African-Islamic
+Peru	604	Latin America
+Philippines	608	Latin America
+Poland	616	Catholic Europe
+Portugal	620	Catholic Europe
+Puerto Rico	630	Latin America
+Romania	642	Orthodox Europe
+Russian	643	Orthodox Europe
+Serbia	688	Orthodox Europe
+Serbia	688	Orthodox Europe
+Singapore	702	West & South Asia
+Slovakia	703	Catholic Europe
+Vietnam	704	West & South Asia
+Slovenia	705	Catholic Europe
+Zimbabwe	716	African-Islamic
+Spain	724	Catholic Europe
+Sweden	752	Protestant Europe
+Switzerland	756	Protestant Europe
+Tajikistan	762	African-Islamic
+Thailand	764	West & South Asia
+Tunisia	788	African-Islamic
+Turkey	792	African-Islamic
+Ukraine	804	Orthodox Europe
+North Macedonia	807	Orthodox Europe
+Egypt	818	African-Islamic
+United Kingdom	826	English-Speaking
+United States	840	English-Speaking
