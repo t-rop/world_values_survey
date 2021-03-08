@@ -1,5 +1,6 @@
 country	country_v2_code	culture_zone
 Albania	8	African-Islamic
+Algeria	12	African-Islamic
 Andorra	20	Catholic Europe
 Azerbaijan	31	African-Islamic
 Argentina	32	Latin America
@@ -16,6 +17,7 @@ Belarus	112	Orthodox Europe
 Chile	152	Latin America
 China	156	Confucian
 Taiwan ROC	158	Confucian
+Canada	124	English-Speaking
 Colombia	170	Latin America
 Croatia	191	Catholic Europe
 Cyprus	196	Orthodox Europe
@@ -27,6 +29,7 @@ Estonia	233	Protestant Europe
 Finland	246	Protestant Europe
 France	250	Catholic Europe
 Georgia	268	Orthodox Europe
+Ghana	288	African-Islamic
 Germany	276	Protestant Europe
 Germany	276	Protestant Europe
 Greece	300	Orthodox Europe
@@ -82,3 +85,12 @@ North Macedonia	807	Orthodox Europe
 Egypt	818	African-Islamic
 United Kingdom	826	English-Speaking
 United States	840	English-Speaking
+Moldova	498	Orthodox Europe
+Morocco	504	African-Islamic
+Russia	643	Orthodox Europe
+Rwanda	646	African-Islamic
+South Africa	710	African-Islamic
+Trinidad and Tobago	780	Latin America
+Tunesia	788	African-Islamic
+Uruguay	858	Latin America
+
